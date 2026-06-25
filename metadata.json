@@ -1,0 +1,6 @@
+{
+  "name": "Maranatha",
+  "description": "A professional business advertising platform with local caching and offline viewing. Users pay P30 once to advertise unlimited times.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
